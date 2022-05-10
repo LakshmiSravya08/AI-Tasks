@@ -1,0 +1,1 @@
+@@@ 1Aaa3.5Maths @@@ 2Bbb4.2Physics @@@ 3Ccc7.62Chemistry @@@ 4Ddd9.55Biology @@@ 5Eee4.0Social @@@ 6Fff7.6English @@@ 7Ggg3.111Maths @@@ 8Hhh9.99Physics @@@ 9Iii1.23Civicsy
